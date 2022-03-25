@@ -1,0 +1,26 @@
+﻿Game overview
+Each player follows the preceding card, laid on the table, with a card of the same color or figure. Special cards may change the direction of play, skip a player's turn, make other players draw cards, change the color and allow a player to discard more than one card. The game includes 112 cards (2 identical sets of 56). The object of the game is to discard all the cards in your hand.[3]
+
+Rules
+The cards are shuffled and each player receives eight. The rest of the deck becomes the draw pile. The top card in the draw pile is turned over and placed face up next to the draw pile to form a discard pile. The upper card of the discard pile is called the Leading Card. The youngest player goes first. Starting clockwise, each player discards a card (or cards) onto the leading card, by (a) matching its color; or (b) matching its number or figure; or (c) using a SuperTaki, Switch Color, or King card. A player who cannot play draws one card from the draw pile. It may be used only in the next round. A player who is left with one card in his hand must announce "Last card!" If he fails to do this before the next player made his move, he draws 4 cards from the draw pile. The game ends when the first player has discarded his last card.
+
+Special Cards
+All the cards which are not regular number cards are Action Cards. An Action Card can affect the player who uses it, the next player or all the players. These cards are the heart of the game and the key to winning.
+
+Stop - The next player loses his turn.
++2 - Forces the next player to draw 2 cards or discard another +2 which forces the next player to draw 4 or follow with a +2 as well, etc. The player who cannot follow with a +2 must draw 2 cards for every +2 card which has been played. After he collected the cards, the last +2 card in the draw pile is free to be used as a color or a number.
+Switch Direction - Reverses the direction of the play. NOTE: Many people think that the card gives another turn while playing with two players, although that is wrong.
+Switch Color - Allows the user to determine the color to be played by the next player. This card may be played at any time except after +2 which is still active.
+TAKI – Discarding a "TAKI" card allows a player to follow with all the cards of the same color as the TAKI. NOTE: You may NOT play any other colors during a Taki run except the color of the leading Taki card.
+A TAKI card must be closed at the end of its use by declaring "Closed TAKI!" after the last card. If the player does not close the TAKI, it is considered still "Open" and the next player may use it to get rid of all his cards of the same color. The TAKI remains open until one of the players who made use of it declares "Closed TAKI" or if a card of a different color has been played.
+
+SuperTaki - A wild TAKI which can be any color.
+Crazy Card (introduced in 2003 version, but removed in 2011) - Forces all the players to pass their cards to the player sitting next to them in the direction chosen by the user. This card is transparent; therefore the leading card after a crazy card has been played remains the one underneath it. The direction of the play after a crazy card has been played is the direction of the switch.
+Plus - This card forces the user to play again. If the player cannot play another card he must draw.
++3 - Not a special card, but the combination of the card Plus and the card 3 of the same color creates a special action. Playing this combination forces all the other players to draw 3 cards from the draw pile. If any of the players holds the same combination (in any color) they may play it (even out of turn) to "save" everybody and "punish" the original player who must then draw 3 cards instead.
+King Card - Originally not included, after its introduction the Kingcard grants the person who draws it an additional turn with no limitations on the cards, effectively resetting the game.
+End of the game
+The first player to empty his hand is the winner. The winner plays the first card in the next round.
+
+Scoring points
+The points scored are penalty points. At the end of each round the winner scores (-100) points. All the others score the sum of the cards remaining in their hands as follows: For each Number Card - The value of the card. For each Action Card - As listed for each Action Card. After 6 rounds, the points are counted up and the winner is the one with the lowest score.

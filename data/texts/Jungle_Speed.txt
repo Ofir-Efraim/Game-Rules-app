@@ -1,0 +1,122 @@
+﻿The game begins.
+In turn, starting with the dealer, players turn over the top card of their Deck and place
+it face up on their Discard pile. Cards must be turned towards the other players, as
+shown in the following examples. Play progresses in a clockwise direction.
+Players may only use one hand to turn over their cards. The other hand should never
+be used, although it may be placed upon their Deck.
+Not like that!
+Like this!
+Duel
+When two people reveal cards with the same design on them (regardless of colour)
+there is a Duel.
+The first of the two players to grab the Totem wins the Duel. The other players must
+not intervene.
+The losing player must pick up both the Discards in front of their opponent and of
+themselves, as well as any cards in the Pot. They place these cards face down
+under their Deck.
+The game then resumes starting with the loser of the Duel. 
+Sometimes when a special card has been turned over (see below), a Duel can
+involve several players. As before, the player who grabs the Totem first wins the
+Duel.
+If there are several losers then each collects their own Discards and the winner
+divides their Discards and the Pot between the losers however they wish.
+Duels can be triggered at any time if there are two cards with the same design
+visible.
+Take great care! Some cards seem identical but are actually slightly different.
+BOX XXX XXX
+Winning a Duel is a test of speed, not a trial of strength!
+When there is a dispute over who was first to grab the Totem there is no point in the
+players trying to pull it towards themselves like monkeys. The winner is the player
+with the most fingers in contact with the Totem, and in case of a tie, it is the player
+whose hand is lowest on the Totem. Should the Totem be accidentally knocked off
+the table the Duel is cancelled and the game continues.
+XXX XXX END BOX
+BOX XXX XXX
+Mistakes
+The Totem is sacred. Mistakes must be punished. A player who grabs the Totem in
+error must very humbly take the Discards of all the other players along with any
+cards in the Pot. Should a player knock over or drop the totem they must pay the
+same penalty.
+
+XXX XXX END BOX
+Special Cards:
+Special cards do not cause Duels but do change the play of the game
+Arrows pointing inwards: Olala
+All players must try to grab the Totem.
+Whoever succeeds places their Discards in the Pot and then restarts play.
+Coloured arrows: Ayayay
+As soon as this card appears it is the colours and not the designs that trigger Duels,
+so it is quite possible that a Duel will start immediately.
+The effects of this card end (i.e. Duels are once again caused by the designs) when
+one of these three events occurs: the Totem falls, a Duel is triggered or another
+special card is turned over.
+Arrows pointing outwards: Wopopop
+All players simultaneously turn over the top card of their Deck.
+If any of the designs are identical, a Duel is triggered immediately.
+If no Duel is triggered then the player who revealed this card continues play and
+turns over another card.
+Note: To be sure that everyone turns their card over simultaneously someone can 
+count "one, two, three".
+BOX XXX XXX
+Special Cases
+If an "Arrows pointing outwards" card causes:
+• another "Arrows pointing outwards” card to be revealed this card has the usual
+effect unless a Duel is triggered at the same time;
+• an "Arrows pointing inwards" card to be revealed and a Duel takes place at the
+same time then the player who grabs the Totem first decides which outcome occurs:
+the Duel (if that player was involved) or the special card;
+• several Duels to occur at the same time then the player who grabs the Totem first
+wins their Duel and the other Duels are cancelled.
+XXX XXX END BOX
+Endgame
+ When a player turns over their last card the other players carry on as normal. The
+player cannot win until they get rid of their Discards by winning a Duel in which they
+are involved. As soon as this happens they are declared the winner and appointed
+lord of the tribe and the great Supreme Guru to the wild adulation of the crowds!
+Optional Rule: Play may continue in order to determine the relative importance of the
+players within the tribe.
+Special Cases
+If the last card played is "Arrows pointing inwards" and the player does not get the
+Totem then the player must collect everybody’s Discards and put them into their
+Deck (instead of the winner of the Duel placing their Discards in the Pot). The game
+then continues with the player who hoped they might be about to win muttering
+ancient Abouloubou curses;
+if the last card played is "Coloured Arrows" then the card has no effect, the player
+must collect all their Discards and the game continues;
+if the last card played is "Arrows pointing outwards" the player wins.
+Variant for three players
+The "Coloured Arrows" cards are removed from the game
+However if the cards on the top of the three Discard piles are ever the same colour
+then the players must act as if the "Coloured Arrows" card had been revealed.
+Variant for two players
+Players play two separate hands. The two hands of each of the players are
+considered to be independent with each hand having its own Deck!
+The “Coloured Arrows” cards are removed from the game and the remaining cards
+are divided into 4 equal Decks. 
+Players play one after another, alternating between their two hands. The sequence
+is:
+• Right hand of Player 1;
+• Right hand of Player 2;
+• Left hand of Player 1;
+• Left hand of Player 2.
+and so on ...
+If a Duel is triggered, it is only the hands involved that can grab the Totem and it is
+only the cards from the hands involved that are collected afterwards.
+If a Duel is triggered between the two hands of a player that player must NOT grab
+the Totem.
+If the card "Arrows pointing inwards" appears it is best to use the hand with the
+largest Discard pile to grab the totem. Of course this is easier said than done.
+The game ends when either:
+both players have got rid of one of their Decks
+or
+one player has got rid of both of their two Decks.
+The players then count their remaining cards and whoever has the least left wins.
+All other rules remain unchanged.
+Variant for one player
+Find some bongos, gather a tribe and teach them the rules!
+BOX XXX XXX
+If you purchased any of the expansion sets for Jungle Speed and you wish to
+rediscover the peace and serenity of your early games then you can sort the different
+sets using the symbols in the corners of the cards.
+Symbol of the cards from the base game
+BOX XXX XXX

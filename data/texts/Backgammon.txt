@@ -1,0 +1,63 @@
+﻿Equipment
+The game of Backgammon is played on a specially designed board consisting of four tables of six thin triangles or points on each table.  The points start from the edges of the board nearest the players and are directed inwards so that they form two rows of 12 points opposite each other.  A bar bisects the board and the two tables on one side are designated the "inner tables" or "home tables", the others being referred to as the "outer tables".  Traditionally, the inner tables should be positioned facing the greatest light source.  There are fifteen white disks, fifteen black disks, two dice, two dice shakers and a doubling cube.  The doubling cube is a die having the numbers 2, 4, 8, 16, 32 and 64 inscribed upon its 6 faces. 
+
+Preparation and Objective
+
+Each player attempts to move all his pieces into the inner table nearest to him (his home table) and once that is achieved, to move or "bear" the pieces off the board.  The first player to do this wins.  However, that is only half the story because backgammon is not being played properly unless it is being played for stakes.  So the ultimate objective of a Backgammon match is to win more stakes than the opponent.   
+
+Starting
+Pieces can only move in one direction - from the opponent's inner table through the opponent's outer table, back through the player's outer table and finishing in the player's inner table.  White pieces move in a clockwise direction, Black moves in an anti-clockwise direction.  Since the inner tables point towards the light, it should therefore be clear who sits where.
+
+For the purposes of describing the starting position, the points will be numbered1 to 12 on either side of the board starting with the first square of the inner table and finishing with the last square of the outer table.  On Black's side, position 2 white pieces on point 1, 5 black pieces on square 6, 3 black pieces on square 8 and five white pieces on square 12.  White's side should mirror this arrangement exactly.
+
+Although Backgammon is played for stakes, this does not necessarily mean money - one can use counters, beans or one can just keep a score with pen and paper.  However, the gambling element can be eliminated completely by following the normal rules and merely ignoring the doubling cube and the stakes.  Normally, however, a stake is decided up front be it monetary or otherwise.
+
+To begin, each player rolls one die each at the same time.  If a double is rolled, then the stake is doubled and both players roll again.  This is repeated until one player rolls a higher number than the other.  The player with the highest throw then uses the dice throw from both players to take the first turn and also chooses to play white or black (and thus which side to sit).
+
+Doubling and stakes
+At any time after the first turn, either player can offer to double the stakes prior to casting the dice.  Upon being presented with such an ultimatum, the other player must choose either to forfeit the game and the current stake or accept the offer. 
+
+Once the stake has been doubled once in this way, only the player who accepted the most recent offer to double the stake can offer to re-double it.  Whenever this happens, the other player either forfeits the game or accepts the double and the opportunity to offer the next double.
+
+The doubling cube is used to record the current amount of the stake.
+
+Basic Play
+Each turn consists of the opportunity to move counters towards the player's inner table according to the roll of the two dice.   Unless a double is thrown, two moves are allowed, one for each number on the dice.  When a double is thrown, four moves are allowed of the number on the dice.  Player's are not allowed to pass on their moves - as many moves as possible must be made each turn.
+
+A point with two or more pieces of the same colour on it is safe - the opponent cannot land a piece on such a point..
+A point hosting only one piece is called a "blot".  Such a piece is vulnerable - if the opponent lands on this point the piece is captured and moved to the bar (this means physically placed on the middle bar dividing the board). 
+Captured pieces are re-entered on the furthest point from the player's inner table.   A throw of 1 allows the piece to move from the bar to point one of the opponent's inner table.  A throw of 5 allows the piece to enter at point 5 of the opponent's inner table.
+If a player has one or more pieces on the bar, no other pieces can be moved until all such pieces have re-entered play.  So if the dice throw and position of enemy pieces prevents a player from re-entering a piece onto the board from the bar, the player cannot move any other piece and play passes to the opponent.
+A point hosting two or more of the opponent's pieces is said to be "blocked".   If six points in a row are blocked, the opponent is said to have formed a "prime".  This is a highly advantageous achievement because a prime cannot be traversed by an opponent but is completely free to be traversed by the player who created it.
+
+Bearing Off
+Once all pieces are present in a player's inner table, that player can start "bearing off".  A throw of 1 allows a player to bear off a piece from point 1 of his inner table, a throw of 2 allows a player to bear off a piece from point 2 of his inner table and so on.  Pieces borne off are simply removed from the board.   Player's do not have to bear off - if available, they can choose to move a piece within their inner table instead.  This is often done to pair up singlets in order to prevent them from capture.
+
+When a player rolls a number that is higher than the highest point of the inner table upon which that player has pieces, the player is allowed to bear off the next highest piece.  For example, with a roll of double 5, if the player has a piece on point 5, two pieces on point 3, one piece on point 2 and one piece on point 1, the player would bear off the four highest placed pieces and be left with just one piece on point 1.
+
+If after starting to bear off, a player's piece is captured, that piece must re-enter at the other side of the board and bearing off cannot re-start until all pieces are once again residing in the inner table.
+
+Finishing
+The first player to bear off all pieces wins the game. 
+
+If the opponent has borne off at least one piece, a single game is won and the current stake is forfeited. 
+If the opponent has not borne off any pieces, this is a "gammon" and worth double the current stake. 
+If the opponent has a piece left on the bar or within the opponent's inner table, this is a "backgammon" and worth triple the current stake.
+ 
+
+Dutch Backgammon
+This is played in the same way as Backgammon with only 2 differences:
+
+All the pieces start off the board "in hand" and all 15 must be entered on the opponent's inner table before any can proceed further
+A player cannot take an opponent's piece until at least one of his pieces has been moved into his inner (bearing) table.
+ 
+
+Acey Deucey
+This gambling game is popular with the US military forces and is similar to Dutch Backgammon - the keynote feature is that a throw of a 1 and a 2 is a special throw called "acey deucey".  It is played in the same way as backgammon with the following rule differences:
+
+At the beginning, the player who starts also chooses which table to enter and the opposing player must enter on the opposite table and travel in the opposite direction.  This, of course, is a purely cosmetic modification to the rules and does not affect the outcome of the game at all.
+All pieces start off the board "in hand".
+It isn't necessary for all pieces to be entered before any other piece can move. This applies at the beginning and during the game.
+A player throwing an acey deucey first moves a 1 and a 2 in the normal way.  Then the player chooses a double from 1 to 6 and moves again, exactly as if that double had been thrown.  e.g. if the player selects double five, that player makes 4 moves of 5 each.  Finally, the player is entitled to another throw of the dice, effectively a new turn.  However, if a player is not able to move both the initial 1 and 2, then the turns stops immediately and the double and the extra throw are forfeited.  Similarly, if all four moves that constitute the double cannot be taken, the ensuing extra throw is forfeited.
+Doubling is not part of Acey Deucey and there is no doubling cube.  However, some people play that the stake is doubled each time an acey-deucey is thrown.
+Acey Deucey also has a different method to determine the winnings each game.   At the end of the game, the losing player must pay the winning player the stake times the number of pieces still remaining on the board. 
